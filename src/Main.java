@@ -13,8 +13,5 @@ public class Main {
         long dauer = ende - start;
 
         System.out.println("Dauer: " + dauer + "ms");
-        System.out.println(start);
-        System.out.println(ende);
-
     }
 }
